@@ -1,1 +1,4 @@
 # DBMS_case-study
+Save tree Campaign" is a campaign that includes various campaign elements, including campaign details, volunteers, tree information, events, government agencies, environmental NGOs, suppliers, planting sites, sponsors, social media engagement, and donor contributions. People having same motto of saving our earth and believing in the slogan “Green Earth!” come together and join hands in this campaign to save and plant trees.
+Through this initiative, the case study aims to enhance the campaign's operational efficiency, promote transparency in its activities, and provide a valuable platform for monitoring the progress of tree planting initiatives. Additionally, the database will facilitate engagement with stakeholders, optimize resource allocation, and support data-driven decision-making to maximize the impact of the "Save Tree Campaign" in its mission to protect and preserve the environment.
+
